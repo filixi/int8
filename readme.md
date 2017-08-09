@@ -1,0 +1,1 @@
+A minimized int8 type which will act mostly as int8_t but will be treated as integer by std::cout.
